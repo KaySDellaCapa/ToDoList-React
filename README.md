@@ -1,11 +1,11 @@
 # To Do List criada com React
-------------------------
+
 Algumas boas horas foram gastas nesse projeto, mas no final eu chuto dizer que valeu a pena. Apesar de trabalhar como dev front e back-end, eu geralmente costumo gostar mais de back-end e a parte de automação - mas foi trabalhoso e prazeroso moldar esse código e aprofundar mais meu conhecimento no react.
 
 A ideia da interface simples não foi por preguiça, mas pensado para ser algo mais clean para o usuario, onde ele simplismente anota suas tarefas ou ideias e fica por isso. O projeto não se propoem a ser mais e considero isso uma boa coisa.
 
 Alguns dos problemas enfrentados foram as funcionalidades não darem resposta e, consequentemente, o servidor não dar resposta ou sumir algumas coisas antes implementedas. Mas com pesquisa e dedicação, foram superadas.
------------------------------
+--------------------------------------
 # Funcionalidades:
 
 * O site apresenta uma serie de categorias para anotar sua tarefa, como "Trabalho", "Ideias", "Pessoal" entre outros, o que deixa um pouco mais de liberdade para o usuario anotar o que tem em sua cabeça.
